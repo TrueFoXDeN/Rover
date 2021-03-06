@@ -1,0 +1,18 @@
+﻿Studie Statikanalyse:1 gestartet: 06.03.2021, 19:19:50
+Anzahl Konfigurationen: 1
+Standardnetz: 3402 Elemente, 6583 Knoten
+Berechnungszeit 0s
+Konvergenzrate: 50%
+Gesamtzahl der H Verfeinerungen  erreicht
+Studie        Worst Jacobian ratio :  1  on element 1 abgeschlossen: 06.03.2021, 19:19:54
+Gesamtzeit 0:00:04
+
+Studie Statikanalyse:2 gestartet: 06.03.2021, 19:23:02
+Anzahl Konfigurationen: 1
+Standardnetz: 3402 Elemente, 6583 Knoten
+Berechnungszeit 0s
+Konvergenzrate: 50%
+Gesamtzahl der H Verfeinerungen  erreicht
+Studie        Worst Jacobian ratio :  1  on element 1 abgeschlossen: 06.03.2021, 19:23:05
+Gesamtzeit 0:00:03
+
